@@ -21,8 +21,8 @@
   position: absolute;
   transform: translate(-50%,-50%);
   font-size: 20px;
-  width: 69%;
-  height: 69%;
+  width: 50%;
+  height: 50%;
   margin: 30px auto;
   box-shadow: 0 0 8px 1px black;
   background: rgba(0,0,0,0.4) ;
