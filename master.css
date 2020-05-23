@@ -20,8 +20,8 @@
   position: absolute;
   transform: translate(-50%,-50%);
   font-size: 20px;
-  width: 40%;
-  height: 40%;
+  width: 44vh;
+  height: 60vh;
   margin: 30px auto;
   box-shadow: 0 0 8px 1px black;
   background: rgba(0,0,0,0.4) ;
