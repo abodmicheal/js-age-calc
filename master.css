@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.container{
+  padding-top: 40px;
+  font-family: arial;
+  color: #fff;
+  border-radius: 5px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  font-size: 20px;
+  width: 50vh;
+  height: 70vh;
+  margin: 30px auto;
+  box-shadow: 0 0 8px 1px black;
+  background: rgba(0,0,0,0.4) ;
+  text-align: center;
+}
+.container a{
+  text-decoration: none;
+  color: #fff;
+  padding: 8px;
+  margin: 20px 0;
+  font-size: 30px;
+  opacity: 0.6;
+}
+.container h1{
+  opacity: 0.8;
+}
+.container h4 {
+  opacity: 0.8;
+  padding: 14px;
+  line-height: 29px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+.flex-div{
+  padding: 35px;
+  display: flex;
+  justify-content: space-around;
+}
+.button1 {
+font-size: 20px;
+padding: 10px;
+border-radius: 15px;
+border: 0;
+background-color: #4CAF50;
+opacity: 0.9;
+color: white;
+}
+.button2 {
+font-size: 20px;
+padding: 10px;
+border: 0;
+border-radius: 15px;
+background-color: #008CBA;
+opacity: 0.9;
+color: white;
+}

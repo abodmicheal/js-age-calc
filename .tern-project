@@ -1,0 +1,18 @@
+{
+  "ecmaVersion": 8,
+  "libs": [
+    "underscore",
+    "react",
+    "jquery",
+    "chai",
+    "browser"
+  ],
+  "loadEagerly": [],
+  "dontLoad": [
+    "node_modules/**"
+  ],
+  "plugins": {
+    "doc_comment": true,
+    "commonjs": {}
+  }
+}
